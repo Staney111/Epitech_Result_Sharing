@@ -1,0 +1,7 @@
+section:last-of-type article:nth-child(-n+4) {
+    display: block;
+}
+
+section:last-of-type article:nth-child(n+5) {
+    display: none;
+}
